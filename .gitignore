@@ -1,0 +1,7 @@
+node_modules
+.DS_Store
+server/odjenv
+__pycache__
+client/build
+*.DS_Store
+server/src/omnidj.db
